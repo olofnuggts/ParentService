@@ -10,11 +10,13 @@ import com.yk.orderservice.dto.OrderRequest;
 import com.yk.orderservice.model.Order;
 import com.yk.orderservice.model.OrderLineItems;
 import com.yk.orderservice.repository.OrderRepository;
+import org.springframework.transaction.annotation.Transactional;
 
 import lombok.RequiredArgsConstructor;
 
 @Service
 @RequiredArgsConstructor
+@Transactional
 public class OrderService {
 
     private final OrderRepository orderRepository;

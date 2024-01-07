@@ -1,0 +1,5 @@
+com\yk\inventoryservice\InventoryServiceApplication.class
+com\yk\inventoryservice\service\InventoryService.class
+com\yk\inventoryservice\controller\InventoryController.class
+com\yk\inventoryservice\model\Inventory.class
+com\yk\inventoryservice\repository\InventoryRepository.class
