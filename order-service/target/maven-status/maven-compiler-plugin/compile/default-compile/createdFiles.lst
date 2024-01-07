@@ -1,8 +1,0 @@
-com\yk\orderservice\service\OrderService.class
-com\yk\orderservice\OrderServiceApplication.class
-com\yk\orderservice\dto\OrderLineItemsDto.class
-com\yk\orderservice\model\Order.class
-com\yk\orderservice\repository\OrderRepository.class
-com\yk\orderservice\dto\OrderRequest.class
-com\yk\orderservice\model\OrderLineItems.class
-com\yk\orderservice\controller\OrderController.class
